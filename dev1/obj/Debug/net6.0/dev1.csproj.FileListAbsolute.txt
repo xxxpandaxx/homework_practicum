@@ -1,0 +1,16 @@
+C:\Users\aman7\OneDrive\Рабочий стол\homework_practicum\dev1\bin\Debug\net6.0\dev1.exe
+C:\Users\aman7\OneDrive\Рабочий стол\homework_practicum\dev1\bin\Debug\net6.0\dev1.deps.json
+C:\Users\aman7\OneDrive\Рабочий стол\homework_practicum\dev1\bin\Debug\net6.0\dev1.runtimeconfig.json
+C:\Users\aman7\OneDrive\Рабочий стол\homework_practicum\dev1\bin\Debug\net6.0\dev1.dll
+C:\Users\aman7\OneDrive\Рабочий стол\homework_practicum\dev1\bin\Debug\net6.0\ref\dev1.dll
+C:\Users\aman7\OneDrive\Рабочий стол\homework_practicum\dev1\bin\Debug\net6.0\dev1.pdb
+C:\Users\aman7\OneDrive\Рабочий стол\homework_practicum\dev1\obj\Debug\net6.0\dev1.GlobalUsings.g.cs
+C:\Users\aman7\OneDrive\Рабочий стол\homework_practicum\dev1\obj\Debug\net6.0\dev1.csproj.AssemblyReference.cache
+C:\Users\aman7\OneDrive\Рабочий стол\homework_practicum\dev1\obj\Debug\net6.0\dev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aman7\OneDrive\Рабочий стол\homework_practicum\dev1\obj\Debug\net6.0\dev1.AssemblyInfoInputs.cache
+C:\Users\aman7\OneDrive\Рабочий стол\homework_practicum\dev1\obj\Debug\net6.0\dev1.AssemblyInfo.cs
+C:\Users\aman7\OneDrive\Рабочий стол\homework_practicum\dev1\obj\Debug\net6.0\dev1.csproj.CoreCompileInputs.cache
+C:\Users\aman7\OneDrive\Рабочий стол\homework_practicum\dev1\obj\Debug\net6.0\dev1.dll
+C:\Users\aman7\OneDrive\Рабочий стол\homework_practicum\dev1\obj\Debug\net6.0\ref\dev1.dll
+C:\Users\aman7\OneDrive\Рабочий стол\homework_practicum\dev1\obj\Debug\net6.0\dev1.pdb
+C:\Users\aman7\OneDrive\Рабочий стол\homework_practicum\dev1\obj\Debug\net6.0\dev1.genruntimeconfig.cache
